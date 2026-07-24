@@ -2,7 +2,7 @@ export const projectsData = [
     {
         id: 0,
         name: 'SMT Post Washing Project',
-        description: "A comprehensive web application for managing and visualizing the location of raw materials on shelves and interactive raw material maps. This system enables operators and engineers to track raw material placement, verify, calculate, and access real-time location data for faster decision-making.",
+        description: "**SMT Post-Washing Tracking System** — a Data Engineering project that tracks WO/Run Cards after SMT in near real time, calculates elapsed time against a 24-hour wash deadline using SAP, MES Valor, and machine logs, and alerts supervisors before boards go overdue to cut chemical rework.",
         tools: ['HTML', 'CSS3', 'Javascript', 'VB.NET', 'ASP.NET', 'SQL','SMTP_Telegram API'],
         role: 'Full Stack Developer & Data Engineer',
         code: 'https://github.com/jayiexpert-max/smt_post_washing.git',
