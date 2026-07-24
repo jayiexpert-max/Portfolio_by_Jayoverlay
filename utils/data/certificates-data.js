@@ -2,7 +2,7 @@ export const mockCertificates = [
   {
     id: 1,
     title: "Advanced Data Engineering & Applied Analytics for IT & Developer Teams",
-    description: "THIS TRAINING WAS CONDUCTED UNDER THE PROJECT TO SUPPORT THE ESTABLISHMENT OFSPECIALIZED TRAINING CENTERS IN DIGITAL AND ARTIFICIAL INTELLIGENCE TO DEVELOPSKILLS AND UPGRADE THE WORKFORCE IN FUTURE INDUSTRIES",
+    description: "This course equips IT and developer teams with the knowledge to build, integrate, and deploy enterprise AI solutions. Participants will learn LLM fundamentals, prompt engineering, structured outputs, function calling, RAG, vector databases, multi-agent systems, workflow automation, and secure deployment.",
     cover_image: "/image/data_engineering.png",
     issued_at: "2026-07-24T08:00:00Z",
     issuer: "IRIS BrighterBee",
