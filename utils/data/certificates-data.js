@@ -1,6 +1,15 @@
 export const mockCertificates = [
   {
     id: 1,
+    title: "Advanced Data Engineering & Applied Analytics for IT & Developer Teams",
+    description: "THIS TRAINING WAS CONDUCTED UNDER THE PROJECT TO SUPPORT THE ESTABLISHMENT OFSPECIALIZED TRAINING CENTERS IN DIGITAL AND ARTIFICIAL INTELLIGENCE TO DEVELOPSKILLS AND UPGRADE THE WORKFORCE IN FUTURE INDUSTRIES",
+    cover_image: "/image/data_engineering.png",
+    issued_at: "2026-07-24T08:00:00Z",
+    issuer: "IRIS BrighterBee",
+    url: "https://drive.google.com/file/d/12krdV3N8xX7yRfXuS80zbHYFw50tO5fL/view?usp=sharing",
+  },
+  {
+    id: 2,
     title: "Practical AI Skills for Learning, Working, and Earning",
     description: "THIS TRAINING WAS CONDUCTED UNDER THE PROJECT TO SUPPORT THE ESTABLISHMENT OFSPECIALIZED TRAINING CENTERS IN DIGITAL AND ARTIFICIAL INTELLIGENCE TO DEVELOPSKILLS AND UPGRADE THE WORKFORCE IN FUTURE INDUSTRIES",
     cover_image: "/image/certificates_AI.jpg",
@@ -9,7 +18,7 @@ export const mockCertificates = [
     url: "https://drive.google.com/file/d/1BxPbkDMtQKSezQpKtbZwB6SvqxR5451P/view?usp=drive_link",
   },
   {
-    id: 2,
+    id: 3,
     title: "Industrial Internet of Things",
     description: "Certification focused on connecting industrial devices, collecting machine data, and building monitoring dashboards for factory operations.",
     cover_image: "/image/Industrial IOT.jpg",
@@ -18,7 +27,7 @@ export const mockCertificates = [
     url: "https://drive.google.com/file/d/1cgjPHlgX2Ym3nVuJhsXCd4iuL7mn51sx/view?usp=drive_link",
   },
   {
-    id: 3,
+    id: 4,
     title: "Cybersecurity (Specialist)",
     description: "Earners of this badge are starting their journey in the cybersecurity field. This exam assesses their understanding of key security paradigms, terminology, and mindset. Badge earners have a keen awareness of the importance of security and the threats to a business when security procedures are not followed. They are willing to teach others about security concerns. They are developing the investigative and implementation skills necessary to succeed in the field.",
     cover_image: "/image/cybersecurity.jpg",
@@ -27,7 +36,7 @@ export const mockCertificates = [
     url: "https://www.credly.com/badges/2f8f082d-0cef-46cb-986d-d6bae0330279/public_url",
   },
   {
-    id: 4,
+    id: 5,
     title: "React & Next.js Professional",
     description: "Demonstrated proficiency in building scalable, performant web applications using React and the Next.js framework.",
     cover_image: "/image/port.jpg",
@@ -36,7 +45,7 @@ export const mockCertificates = [
     url: "#",
   },
   {
-    id: 5,
+    id: 6,
     title: "Networking Basics",
     description: "Networks keep the digital world connected. Learn how networks work and gain employable skills to start your tech career.",
     cover_image: "/image/networkin_basic.png",
@@ -45,7 +54,7 @@ export const mockCertificates = [
     url: "https://www.credly.com/badges/34a80d29-6e4d-4c69-a1cd-5ff1c7e124a0/public_url",
   },
   {
-    id: 6,
+    id: 7,
     title: "Developing embedded systems in image processing applications with Python",
     description: "Developed embedded computer vision systems using Python, OpenCV, and Raspberry Pi. Integrated camera modules and hardware interfaces to perform real-time image acquisition, image processing, object detection, and automated monitoring for industrial applications.",
     cover_image: "/image/embedded_system.jpg",
