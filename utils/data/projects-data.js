@@ -1,11 +1,20 @@
 export const projectsData = [
     {
+        id: 0,
+        name: 'SMT Post Washing Project',
+        description: "A comprehensive web application for managing and visualizing the location of raw materials on shelves and interactive raw material maps. This system enables operators and engineers to track raw material placement, verify, calculate, and access real-time location data for faster decision-making.",
+        tools: ['HTML', 'CSS3', 'Javascript', 'VB.NET', 'ASP.NET', 'SQL','SMTP_Telegram API'],
+        role: 'Full Stack Developer & Data Engineer',
+        code: 'https://github.com/jayiexpert-max/smt_post_washing.git',
+        demo: '',
+      },
+    {
         id: 1,
         name: 'Visual Location Management',
         description: "A comprehensive web application for managing and visualizing the location of raw materials on shelves and interactive raw material maps. This system enables operators and engineers to track raw material placement, verify, calculate, and access real-time location data for faster decision-making.",
-        tools: ['ViteJS', 'React', 'Typescript', 'CSS', 'MariaDB', 'Nginx','PM2'],
+        tools: ['ViteJS', 'React', 'Typescript', 'CSS', 'MariaDB', 'Nginx','PM2', 'SMTP_Email API'],
         role: 'Full Stack Developer',
-        code: '',
+        code: 'https://github.com/jayiexpert-max/visual_location_version-vite.js.git',
         demo: '',
       },
     {
@@ -14,7 +23,7 @@ export const projectsData = [
         description: "A hardware integration project for connecting Raspberry Pi to Ethernet-based IO devices, collecting device signals, and forwarding event data to the application layer for monitoring, control, and traceability.",
         tools: ['Node JS', 'Express', 'Raspberry Pi', 'MySQL'],
         role: 'Software Engineer',
-        code: '',
+        code: 'https://github.com/jayiexpert-max/visual_location_version-vite.js.git',
         demo: '',
     },
     {
@@ -32,7 +41,7 @@ export const projectsData = [
         description: "A web-based system for recording machine downtime and managing online check sheets, designed to improve production traceability, reduce manual paperwork, and support real-time reporting.",
         tools: ['PHP', 'Javascript', 'MySQL', 'HTML', 'CSS', 'jQuery', 'Bootstrap'],
         role: 'Software Engineer',
-        code: '',
+        code: 'https://github.com/jayiexpert-max/Downtime_Check-Sheet.git',
         demo: '',
     }
 ];
